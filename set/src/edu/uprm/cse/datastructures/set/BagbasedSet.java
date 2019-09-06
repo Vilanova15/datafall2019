@@ -1,7 +1,6 @@
 package edu.uprm.cse.datastructures.set;
-// Comment for eclipse to work
-import edu.uprm.cse.datastructures.bag.Bag;
-import edu.uprm.cse.datastructures.bag.DynamicBag;
+import edu.uprm.cse.datastructures.bag2.Bag;
+import edu.uprm.cse.datastructures.bag2.DynamicBag;
 
 public class BagbasedSet<E> implements Set<E> {
 	// This is called object composition and it is preferred over inheritance 

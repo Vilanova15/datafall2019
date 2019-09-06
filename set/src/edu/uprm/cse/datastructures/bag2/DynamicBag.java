@@ -1,4 +1,6 @@
-package edu.uprm.cse.datastructures.bag;
+package edu.uprm.cse.datastructures.bag2;
+
+import edu.uprm.cse.datastructures.bag2.Bag;
 
 public class DynamicBag<E> implements Bag<E>{
 

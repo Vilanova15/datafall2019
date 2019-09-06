@@ -1,4 +1,4 @@
-package edu.uprm.cse.datastructures.bag;
+package edu.uprm.cse.datastructures.bag2;
 
 public interface Bag<E> {
     public int size();
